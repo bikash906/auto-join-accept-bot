@@ -1,0 +1,12 @@
+{
+  "name": "auto-join-accept-bot",
+  "version": "1.0.0",
+  "description": "Telegram auto approve join requests bot",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "node-telegram-bot-api": "^0.61.0"
+  }
+}
